@@ -1,4 +1,4 @@
-# n-gon_unofficial_community_levels1
+# N-gon Unofficial Community Levels
 Add community levels to the game n-gon (https://landgreen.github.io/sidescroller) without asking the owner
 
 Play way more levels in n-gon by installing the userscript (script.js), and just play!
